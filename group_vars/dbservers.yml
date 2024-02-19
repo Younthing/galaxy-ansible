@@ -1,3 +1,4 @@
+---
 # PostgreSQL
 postgresql_objects_users:
   - name: "{{ galaxy_user_name }}"
