@@ -1,4 +1,4 @@
 [galaxyservers]
-gat-0.eu.galaxy.training ansible_connection=local ansible_user=ubuntu
+192.168.100.134 ansible_user=fanxi ansible_become_pass=f199607120
 [dbservers:children]
 galaxyservers
